@@ -1,2 +1,2 @@
 # CDN
-cdn
+picture
